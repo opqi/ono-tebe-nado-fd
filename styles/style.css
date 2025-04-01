@@ -120,7 +120,7 @@
 
 /* Lots */
 .lots {
-  padding: 180px 50px;
+  padding: 180px 24px 0;
 }
 
 .lots__heading {
@@ -197,9 +197,9 @@
 /* About */
 .about {
   display: grid;
-  grid-template-columns: 430px 1fr;
+  grid-template-columns: 350px 1fr;
   gap: 25px;
-  padding: 100px 50px;
+  padding: 120px 24px 0;
 }
 
 .about__logo {
